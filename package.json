@@ -1,0 +1,30 @@
+{
+  "name": "exel",
+  "version": "1.0.0",
+  "description": "Excel === exel",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nik-WEBJS/ExcelReforge.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Nik webjs Fokin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nik-WEBJS/ExcelReforge/issues"
+  },
+  "homepage": "https://github.com/Nik-WEBJS/ExcelReforge#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.58.1",
+    "webpack-cli": "^4.9.0"
+  }
+}
