@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 @import "~normalize.css";
 
 @import "header";
@@ -19,5 +19,9 @@ body{
 
 .excel{
     position: relative;
+    color: #888;
+    height: 100%;
+    max-width: 100%;
+
 }
 
