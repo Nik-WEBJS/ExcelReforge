@@ -22,7 +22,8 @@
         "max-len":"off",
         "require-jsdoc":"off",
         "padded-blocks":"off",
-        "no-undef":"off"
+        "no-undef":"off",
+        "spaced-comment":"off"
     },
 
     "extends":["eslint:recommended", "google"]
