@@ -29,7 +29,7 @@ export class Table extends ExcelComponent{
             2
         </div>
         <div class="row-data">
-            <div class="cell selected contenteditable">A1</div>
+            <div class="cell contenteditable">A1</div>
             <div class="cell contenteditable">B1</div>
             <div class="cell contenteditable">C1</div>
         </div>
